@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490436122866",
+    "project_id": "gymappbysumit",
+    "storage_bucket": "gymappbysumit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490436122866:android:eaa8e4a8e2171535f1986b",
+        "android_client_info": {
+          "package_name": "com.example.gymappbysumit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK3cgep8Ecc7neNg9udaneRnSY7cpskKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
